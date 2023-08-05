@@ -1,0 +1,6 @@
+query Cases {
+  cases {
+    id
+    name
+  }
+}
